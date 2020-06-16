@@ -8,7 +8,7 @@ const robots = [
   { name: 'Skywarp', alliance: null },
   { name: 'Megatron', alliance: null },
   { name: 'Ironhide', alliance: null },
-  { name: 'Ratchet', alliance: null }
+  { name: 'atchet', alliance: null }
 ];
 
 const zebraStripes = [
